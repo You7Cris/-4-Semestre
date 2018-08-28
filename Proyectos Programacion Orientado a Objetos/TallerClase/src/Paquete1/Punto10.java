@@ -8,6 +8,10 @@ public class Punto10 {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner (System.in);
 		
+		int numero,n2;
+		System.out.print("Ingrese un numero para encontrar su valor absoluto: ");
+		numero = sc.nextInt();
+		System.out.println(numero*-1+" =  "+numero);
 		
 	}
 

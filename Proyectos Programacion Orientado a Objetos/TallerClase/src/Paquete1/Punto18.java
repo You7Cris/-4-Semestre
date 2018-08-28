@@ -22,7 +22,7 @@ public class Punto18 {
 			sueldototal = (float) sueldoHora * horas;
 		}else {
 			do {
-				System.out.print("Trabajo horas extras? 1.)Si  2.) No");
+				System.out.println("Trabajo horas extras? 1.)Si  2.) No");
 				opcion = sc.nextInt();
 			}while((opcion < 1) || (opcion > 2));
 			if(opcion == 1)
