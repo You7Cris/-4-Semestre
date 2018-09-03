@@ -10,16 +10,15 @@ public class Punto25 {
 		Scanner sc = new Scanner (System.in);
 		
 		int prestamo=200,anos=5;
-		double totalAPagar = (prestamo+(prestamo*0.06));
-		double cuota = (totalAPagar/anos);
-		double deuda= (totalAPagar);
+		double valorTotal = prestamo + ((prestamo*0.06) * anos);
 		
-		System.out.println("Miguel debera pagar cada año así:");
-		System.out.println(totalAPagar+" | "+cuota+" | "+deuda);
+		System.out.println("El total a pagar en el transcurso de los 5 años es : "+valorTotal);
 		
-		for(int i=1;i<=5;i++) {
-			System.out.println("Año:"+i+" Cuota:"+cuota+" Deuda:"+String.format("%.2f",(deuda-(cuota*i)))+" Pagado:"+String.format("%.2f",(totalAPagar-(cuota*i))));
-		}
+		sc.close();
+		
+		
+		
+		
 	}
 
 }
