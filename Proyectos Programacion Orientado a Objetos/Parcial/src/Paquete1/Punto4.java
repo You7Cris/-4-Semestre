@@ -14,9 +14,9 @@ public class Punto4 {
 			double capacidad = (interes-(interes*0.02));
 		
 			System.out.println("Monto Solicitado :"+capacidad);
-				System.out.println("PLAZO\tINTERES\tTOTAL A PAGAR MENSUAL\tTOTAL A PAGAR TOTAL");
+				System.out.println("PLAZO\tINTERES\t\tTOTAL MENSUAL\tTOTAL A PAGAR TOTAL");
 			for(int i = 12;i<=72; i+=12 ) {
-				System.out.println(+i+"\t"+String.format("%.1f", aumento(i,100))+"\t"+ String.format("%.2f", ( (salario+capacidad+aumento(i,100))/i ))+"\t"+ String.format("%.2f", ((salario + capacidad+ aumento(i,100)))));
+				System.out.println(+i+"\t"+String.format("%.1f", aumento(i,100))+"\t\t"+ String.format("%.2f", ( (salario+capacidad+aumento(i,100))/i ))+"\t\t"+ String.format("%.2f", ((salario + capacidad+ aumento(i,100)))));
 			}//Se manda i, como el mes para el ciclo, para calcular el aumento de interes.
 	
 			
