@@ -36,8 +36,11 @@ public class Main {
 		System.out.println();
 		System.out.println("Metodo Quicksort");
 		
+		int n = arreglo.length;
 		OrdenamientoQuicksort q = new OrdenamientoQuicksort();
-		q.OrdenamientoQuicksort(arreglo);
+		q.OrdenamientoQuicksort(arreglo,0,n-1);
+		
+		
 		
 		for(int i= 0;i<arreglo.length;i++)
 		{
