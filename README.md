@@ -31,4 +31,7 @@ Repositorio para trabajos y proyectos del 4 semestre.
 
 ## Corte Final
 
-![enter image description here](https://picasaweb.google.com/106619660617477666713/6614518542942728305#6614518542332528082 "Continuara...")
+
+
+![enter image description here](https://lh3.googleusercontent.com/52EZ5Xp42DP4tsmMMF9boYZX1TifpAS5tumXqNiae_5hjYDfu3PRVDk1GcDh-cgRy1pLc2XAARAc)
+
