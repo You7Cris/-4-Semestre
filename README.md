@@ -19,7 +19,7 @@ Repositorio para trabajos y proyectos del 4 semestre.
 
 | Materia | Enlace |
 |----------|------------|
-|Programacion Web [😂][🎈][💡] |[[Talleres]](https://github.com/You7Cris/-4-Semestre/tree/master/Programaci%C3%B3n%20Web/Corte%201) [[Parcial]](https://github.com/You7Cris/-4-Semestre/tree/master/Programaci%C3%B3n%20Web/Corte%201/Parcial) [[Proyecto]]
+|Programacion Web [😂][🎈][💡] |[[Talleres]](https://github.com/You7Cris/-4-Semestre/tree/master/Programaci%C3%B3n%20Web/Corte%201) [[Parcial]](https://github.com/You7Cris/-4-Semestre/tree/master/Programaci%C3%B3n%20Web/Corte%201/Parcial) [Proyecto]
 |Programacion Orientado a Objetos [😂][🎈] [💡]| [[Talleres]](https://github.com/You7Cris/-4-Semestre/tree/master/Proyectos%20Programacion%20Orientado%20a%20Objetos/1%20Corte) [[Parcial]](https://github.com/You7Cris/-4-Semestre/tree/master/Proyectos%20Programacion%20Orientado%20a%20Objetos/1%20Corte/Parcial/Paquete1) [[Proyecto]](https://github.com/You7Cris/-4-Semestre/tree/master/Proyectos%20Programacion%20Orientado%20a%20Objetos/1%20Corte/ProyectoPrimerCorte/Cinema)
 
 ## Corte #2
