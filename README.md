@@ -26,7 +26,7 @@ Repositorio para trabajos y proyectos del 4 semestre.
 
 |Materia | Enlace |
 |---------|----------|
-|Programacion Web [😂][🎈][💡] | [[Talleres]](https://github.com/You7Cris/-4-Semestre/tree/master/Programaci%C3%B3n%20Web/Corte%202) [[Parcial]]() [[Proyecto]](https://github.com/You7Cris/-4-Semestre/tree/master/Programaci%C3%B3n%20Web/Corte%202/Proyecto/CarritoCompras)
+|Programacion Web [😂][🎈][💡] | [[Talleres]](https://github.com/You7Cris/-4-Semestre/tree/master/Programaci%C3%B3n%20Web/Corte%202) [Parcial] [[Proyecto]](https://github.com/You7Cris/-4-Semestre/tree/master/Programaci%C3%B3n%20Web/Corte%202/Proyecto/CarritoCompras)
 |Programacion Orientada a Objetos [😂][🎈][💡]|[[Talleres]](https://github.com/You7Cris/-4-Semestre/tree/master/Proyectos%20Programacion%20Orientado%20a%20Objetos/2%20Corte) [Parcial] [Proyecto]
 
 ## Corte Final
