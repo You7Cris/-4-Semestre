@@ -34,7 +34,7 @@ Repositorio para trabajos y proyectos del 4 semestre.
  Materia | Enlace |
 |-----------|-----------|
 |Programacion Web [😂][🎈][💡]| [[Talleres]](https://github.com/You7Cris/-4-Semestre/tree/master/Proyectos%20Programacion%20Orientado%20a%20Objetos/3%20Corte/Swing/src) [Parcial] [Proyecto]|
-|Programacion Orientada a Objetos [😂][🎈][💡] | [Talleres] [Parcial] [[Proyecto]](https://github.com/You7Cris/-4-Semestre/blob/master/Proyectos%20Programacion%20Orientado%20a%20Objetos/Poo.md)
+|Programacion Orientada a Objetos [😂][🎈][💡] | [Talleres] [Parcial] [[Proyecto]](https://github.com/You7Cris/-4-Semestre/blob/master/Proyectos%20Programacion%20Orientado%20a%20Objetos/Poo.md)|
 
 
 *"La actividad creativa de la programación, que se distingue de la codificación, se enseña generalmente por medio de ejemplos que sirven para exhibir ciertas técnicas".* (Niklaus Wirth)
