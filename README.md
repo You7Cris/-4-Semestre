@@ -9,8 +9,8 @@ Repositorio para trabajos y proyectos del 4 semestre.
 ## Repositorio ✌
 | Materia | Enlace |
 | ---------- | -------------|
-| Programacion Web | [[General]](https://github.com/You7Cris/-4-Semestre/tree/master/Programaci%C3%B3n%20Web)|
-|Programacion Orientado a Objetos | [[General]](https://github.com/You7Cris/-4-Semestre/tree/master/Proyectos%20Programacion%20Orientado%20a%20Objetos)
+| Programacion Web | [[General]](https://github.com/You7Cris/-4-Semestre/tree/master/Programaci%C3%B3n%20Web) |
+| Programacion Orientado a Objetos | [[General]](https://github.com/You7Cris/-4-Semestre/tree/master/Proyectos%20Programacion%20Orientado%20a%20Objetos)
 
 
 # Talleres  😂 , Parcial 🎈 y Proyecto 💡
