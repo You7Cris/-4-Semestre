@@ -162,6 +162,6 @@ Comparación de los métodos de ordenamiento hablados en el documento.
 * Cada tipo de ordenamiento es eficaz para la funcionalidad que se le ha asignado, como unos operan mas rápido con menos cantidad de valores, otros son mas eficaces con datos mas grandes.
 
 
-# Bibliográficas
+# Bibliográfia
 
 *  [[Ventajas y Desventajas de los algoritmos de ordenamiento]](https://techlandia.com/ventajas-desventajas-algoritmos-ordenamiento-info_181515/)
