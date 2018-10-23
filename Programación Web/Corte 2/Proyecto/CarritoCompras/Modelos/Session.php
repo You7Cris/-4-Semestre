@@ -7,20 +7,27 @@ class Session{
   public function control($email, $pass){
     $modelo = NEW Conexion();
     $conexion = $modelo->getConexion();
-    $sql = "SELECT * FROM usuarios WHERE email = :ema AND password = :passw";
+    $sql = "SELECT * FROM usuarios WHERE email = :ema";
     $statement = $conexion->prepare($sql);
     $statement->bindParam(':ema',$email);
-    $statement->bindParam(':passw',$pass);
 
     if(!$statement){
-      return "Error de conexion";
+      return false;
     }else{
       $statement->execute();
       $resultado= $statement->fetch();
       if($resultado !== false){
-        session_start();
-        $_SESSION["AUTENTICA"] = "SI";
-        return true;
+        if(password_verify($pass,$resultado['password'])){
+          session_start();
+          $_SESSION["AUTENTICA"] = "SI";
+          $_SESSION['id'] = $resultado['id_usuario'];
+          $_SESSION['nombre'] = $resultado['nombre_usuario'];
+          $_SESSION['rol'] = $resultado['rol'];
+          $_SESSION['foto'] = $resultado['foto'];
+          return true;
+        }else{
+          return false;
+        }
       }else{
         return false;
       }

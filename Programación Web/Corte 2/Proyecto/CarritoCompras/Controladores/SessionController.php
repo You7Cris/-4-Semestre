@@ -15,9 +15,15 @@
   	$resultado = $session->control($email, $pass);
 
     if($resultado){
-      header('Location: ../Vistas/Index/index.php');
+      if($_SESSION['rol'] == 'administrador'){
+        header('Location: ../Vistas/Admin/index.php');
+      }else{
+        // $_SESSION['CARRITO'];
+        header('Location: ../Vistas/Cliente/index.php');
+      }
     }else{
-      header('Location: ../Vistas/Index/login.php?estado=0');
+      $error = "El usuario o la contraseña son incorrectos";
+      header('Location: ../Vistas/Index/index.php?error='.$error.'');
     }
   }
 
@@ -26,14 +32,14 @@
     $resultado = $session->security();
 
     if(!$resultado){
-      header('Location: login.php');
+      header('Location: index.php');
     }
   }
 
   function salir(){
     $session = NEW Session();
     $session->exit();
-    header('Location: login.php');
+    header('Location: ../Index/index.php');
   }
 
 
